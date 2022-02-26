@@ -4,7 +4,7 @@ Data-driven Astronomy course repository
 ## Description
 This repository contains algorithmic solutions that were implemented in the context of the course **Data-driven Astronomy** which is provided by the **University of Sydney** on Coursera.
 
-## About this Course
+## About the course
 The course investigates challenges that arise when working with large astronomy datasets:
 - How to implement algorithms that work
 - How to use databases to manage data
