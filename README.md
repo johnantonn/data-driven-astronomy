@@ -34,7 +34,7 @@ The course comprises of different themes/entities split over weeks:
   - Using machine learning tools to classify your data
   - Investigating different types of galaxies
 
-*Note*: This repository does not host the SQL-related code/queries that were implemented in the context of Week 3 and Week 4.
+*Note*: This repository does not host the SQL-related code/queries that were implemented in the context of Week 3 and Week 4 hands-on exercises.
 
 ## References
 - https://www.coursera.org/learn/data-driven-astronomy
